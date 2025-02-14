@@ -1,0 +1,17 @@
+.enrollment {
+    padding: 40px;
+    text-align: center;
+    background: #f4f4f4;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 8px 12px;
+    background: #b8040c;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 16rem;
+    height: 4rem;
+    font-size: 3rem;
+  }
